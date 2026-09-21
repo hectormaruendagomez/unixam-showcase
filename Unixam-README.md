@@ -4,15 +4,23 @@ Plataforma de estudio pensada para estudiantes de universidad y PAU: un espacio 
 
 > ⚠️ Este repositorio es un **showcase** del proyecto. El código fuente es privado (producto comercial en fase de lanzamiento) — aquí explico qué hace, cómo está construido y cuál fue mi rol.
 
-🔗 **Web:** [unixam.es](https://unixam.es)
+🔗 **Web:** (https://unixam-mauve.vercel.app/)
 
 ## Qué es
 
 Unixam nace como alternativa a plataformas como Wuolah, centrada en estudiantes de universidad y PAU. Permite subir, buscar y compartir apuntes y exámenes de forma organizada por asignatura y centro.
 
 ## Capturas
+Página principal: 
+<img width="3413" height="1270" alt="image" src="https://github.com/user-attachments/assets/934da001-fd08-444e-8221-e6fd50469348" />
+Perfil:
+<img width="3404" height="1226" alt="image" src="https://github.com/user-attachments/assets/37a59a4a-658f-4984-9e6e-6d42dc1ee183" />
+Buscador:
+<img width="3414" height="1241" alt="image" src="https://github.com/user-attachments/assets/fd66ba28-c457-4766-a796-acd8d0619827" />
+Mochila:
+<img width="3395" height="1296" alt="image" src="https://github.com/user-attachments/assets/1be6cf83-5a0a-4c4b-8836-dfbbecf6606f" />
 
-*(añade aquí 2-4 capturas de la landing, el dashboard y la vista de apuntes cuando estén disponibles)*
+
 
 ## Stack técnico
 
